@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\s188034\source\repos\project1\variables\main.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\s188034\source\repos\project1\variables\main.cpp(122): error C2374: 'x': redefinition; multiple initialization
+  c:\users\s188034\source\repos\project1\variables\main.cpp(74): note: see declaration of 'x'
+c:\users\s188034\source\repos\project1\variables\main.cpp(123): error C2371: 'y': redefinition; different basic types
+  c:\users\s188034\source\repos\project1\variables\main.cpp(82): note: see declaration of 'y'
