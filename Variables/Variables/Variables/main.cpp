@@ -2,13 +2,12 @@
 
 int main()
 {
-
 	//start step 1. 
 	
 		int number = 0;
 		int anotherNumber = 0;
 	//end step 1.	
-	
+		
 
 	//start step 2.
 	
@@ -117,8 +116,8 @@ int main()
 	//Average of Five
 	{
 		float a, b, c, d, e;
-		float avg; ;
-		avg = a = b = c = d = e = 0.0f;
+		float avg;
+		avg = a = b = c = d = e = 7.8f;
 
 		std::cout << "Average of Five)" << std::endl;
 		std::cout << 1 << "," << 4 << "," << 5 << "," << 9 << "," << 20 << std::endl;
